@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <div class="half-hero" style="background-image:url({{ page.postHero }}"></div>
+
+  <article class="page">
+    <div>  <!-- Added by THD -->
+      <header class="post-header">
+        <h1>{{ page.title }}</h1>
+        <div class="post-byline">
+      	 <img src="{{ page.gravatar }}" />
+      	 <a href="{{ page.authorTwitter }}" class="social-link">
+          <i class="fa fa-twitter"></i> 
+         </a>
+      	 by: {{ page.author }}
+      	 <span> - {{ page.date | date: '%B %d, %Y'  }}</span> 
+        </div>
+      </header>
+      <aside class="post-aside">
+
+        {% include posts-list.html %}
+      
+  	 </aside>
+  	 <div class="post-content">
+       <p>
+        {{ page.disclaimer }}
+      </p>
+  		  {{ content }}
+  	 </div>
+    </div>  <!-- Added by THD -->
+  	<footer class="post-footer">
+  		{{ page.postFooter }}
+      <div class="qr">
+        <img src="{{ base }}/images/QR-Code-eos-uk-org.png" />
+      </div>
+  	</footer>
+  </article>
+
+</div>

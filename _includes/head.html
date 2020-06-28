@@ -1,0 +1,28 @@
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	{% if page.title %}
+		<title> EOS-UK | {{ page.title }} </title>
+		<meta property="og:title" content="{{ page.title }}" />
+	{% else %}
+		<title>EOS-UK | Ethiopian Orphans Suport UK Charity Fund</title>
+	{% endif %}
+	{% if page.description %}
+		<meta name="description" content="{{ page.description }}" />
+		<meta property="og:description" content="{{ page.description }}">
+	{% else %}
+		<meta name="Description" content="A charity established to support the work of Elshadai Wukro Children's Village, in Tigrai, Ethiopia" />
+	{% endif %}
+	{% include base.html %}
+	<link href="/EOSUK-Favicon.png" rel="icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="stylesheet"
+   href="{{ base }}/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="{{ base }}/css/bootstrap.css" />
+	<link rel="stylesheet" href="{{ base }}/css/main.css" />
+	<!-- link rel="stylesheet" href="css/custom.css" / -->
+	<!-- 
+	{% if page.title contains "About" %}
+		{# % # include google-api-key.html %}
+	{% endif %}
+	-->

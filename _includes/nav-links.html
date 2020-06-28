@@ -1,0 +1,28 @@
+<li><a href="/">Home</a></li>
+<li><a href="{{ base }}/about">About</a></li>
+<li><a href="{{ base }}/history">History</a></li>
+<li class="dropdown">
+	<a class="drop-trigger" href="{{ base }}/donate">Donate</a>
+	<ul class="drop-menu">
+	  {% include nav-donations.html %}
+	</ul>
+</li>
+<li><a href="{{ base }}/legal">Legal</a></li>
+<li><a href="{{ base }}/contact">Contact</a></li>
+<li class="dropdown">
+	<span class="drop-trigger cl-more" href="{{ base }}/more">More...</span>
+	<ul class="drop-menu">
+		{% include nav-more.html %}
+	</ul>
+</li>
+<li class="dropdown">
+  <a class="drop-trigger" href="{{ base }}/blog">News</a>
+  <ul class="recent-post drop-menu">
+    {% for post in site.posts limit:5 %}
+    	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    <!-- li class="divider"></li>
+    <li class="for-mob"><a href="{{ base }}/blog">Blog List</a></li -->
+  </ul>
+</li>
+<li><a href="{{ site.posts.first.url }}">Newest Post</a></li>

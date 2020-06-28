@@ -1,0 +1,112 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="full-hero hero-home">
+    <div class="hero-content">
+      <h1>Ethiopian Orphans Support UK Charity Fund (EOS-UK Charity Fund)</h1>
+      <h4>A registered charity - registered charity number 1172420</h4>
+      <h2>Welcome!</h2>
+    </div>
+  </div>
+
+  <div class="home-callout">
+    <p id="intro">&nbsp;</p>
+    <h1 class="callout-title">Introduction to our Charity </h1>
+    <div class="callout-copy">
+      <p>
+        Welcome to the Ethiopian Orphans Support UK Charity Fund (EOS-UK Charity Fund) website. EOS-UK Charity Fund is a non-political and non-religious charity founded in 2016 to mobilise support for Elshadai-Wukro Children's Village in Wukro, Tigrai, northern Ethiopia, which cares for orphaned and vulnerable children. We hope that these pages will give you some insight of the work of “the Children's Village”. This is a home-grown organisation founded in 1989, by Ethiopians themselves, initially to cater for the vast number of children left orphaned and destitute by the catastrophic civil war. It continues to this day to cater for orphaned, destitute and vulnerable children and young people in a loving, safe and emotionally warm environment. It believes in maximum self-sufficiency, as far as possible, and is working towards this aim with the support of sponsors, donors and partners. 
+      </p> 
+      <p>
+        EOS-UK Charity Fund is founded to help meet the Children's Village's financial needs, and support its ongoing efforts and long-term goal of becoming self-supportive. The charity is entirely run by volunteers and it depend for its income on the donation from the public. It has no paid staff which means that your donations, minus a small running cost (e.g. for stamps, paper and bank costs) will reach the beneficiaries at the Children's Village in Wukro. 
+      </p>
+    </div>
+  </div>
+
+  <div class="home-section bg-success text-success bordered">
+    <h4>Most recent post</h4>
+    <div class="blog-posts">
+      <header class="post-header">
+        <h2>
+          <a href="{{ site.posts.first.url }}">
+            {{ site.posts.first.title }}
+          </a>
+        </h2>
+        <div class="post-byline">
+          <img src="{{ site.posts.first.gravatar }}" />
+          <a href="{{ site.posts.first.authorTwitter }}" 
+          class="social-link"><i class="fa fa-twitter"></i></a>
+          by: {{ site.posts.first.author }}
+          <span> - {{ site.posts.first.date | date: '%B %d, %Y' }}</span>
+        </div>
+      </header>
+      <div class="posts-image"
+      style="background-image:url({{ site.posts.first.postHero }}">
+      </div>
+      {{ site.posts.first.excerpt }} [ <a href="{{ site.posts.first.url }}">More ... </a> ]
+    </div>
+  </div>
+
+  <div class="home-section">
+    <h2>MAIN ACTIVITIES</h2>
+    <p>
+      Giving a caring home to orphaned and destituted children. Engaging in activities designed to make the village self sufficient in the long run.
+    </p>
+
+    <div class="bio-wrapper">
+      <div class="bio-box">
+        <div class="thumbnail">
+          <img src="{{ base}}/images/IMG_0530.png" class="img-responsive" />
+          <div class="caption">
+            <h4>Forming new friends</h4>
+          </div>
+        </div>
+        <!-- h3>Sign Language Development</h3 -->
+        <!-- a href="http://twitter.com/mhartl" class="social-link">
+          <i class="fa fa-twitter"></i>
+        </a -->
+        <div class="bio-copy">
+          <p>
+            Assist in the provision of physical care
+          </p>
+        </div>
+      </div>
+      <div class="bio-box">
+        <div class="thumbnail">
+          <img src="{{ base }}/images/IMG_0445.png" class="img-responsive" />
+          <div class="caption">
+            <h4>Pride in making a planet mobile</h4>
+          </div>
+        </div>
+        <!-- h3>Sports</h3 -->
+        <!-- a href="https://twitter.com/leedonahoe" class="social-link">
+          <i class="fa fa-twitter"></i>
+        </a -->
+        <div class="bio-copy">
+          <p>
+            Assist in the provision of education
+          </p>
+        </div>
+      </div>
+      <div class="bio-box">
+        <div class="thumbnail">
+          <img src="{{ base }}/images/IMG_0601.png" class="img-responsive" />
+          <div class="caption">
+            <h4>The children village's beehives</h4>
+          </div>
+        </div>
+        <!-- h3>Preschool for Deaf Children</h3 -->
+        <!-- a href="https://twitter.com/nickmerwin" class="social-link">
+          <i class="fa fa-twitter"></i>
+        </a -->
+        <div class="bio-copy">
+          <p>
+            Assist the village to attain self sufficiency
+          </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
