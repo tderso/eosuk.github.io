@@ -10,5 +10,9 @@ gem "jekyll", "~> 3.8.5"
 
 gem "rake"
 
+gem "rack-jekyll"
+
+gem "puma"
+
 ruby "2.6.6"
 
