@@ -8,7 +8,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "jekyll", "~> 3.8.5"
 
-gem "rake"
+# git add -Agem "rake"
 
 gem "rack-jekyll"
 
