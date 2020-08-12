@@ -108,8 +108,24 @@ h1,h2,h3,h4,h5,h6 {
 .text-underline {
   text-decoration: underline;
 }
+.footnotes:before {
+  border: 1px solid;
+  border-color: transparent transparent #f00;
+  color: #f00;
+  content: "____________________";
+  height: 0em;
+  position: relative;
+  right: 0em;
+  top: 2em;
+  width: 0em;
+}
 .footnotes {
+  /*border-top: solid 1px red;*/
   font-size: 0.75em;
+}
+.footnotes ol {
+  padding-top: 2em;
+  padding-left: 2em;
 }
 #education,
 #health,
