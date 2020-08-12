@@ -534,6 +534,11 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 1.5rem;
   }
 
+  .post-content div > p em,
+  .post-content > p em {
+    font-size: 0.6em;
+  }
+
 /* BLOG STYLES */
 .blog-recent {
   text-align: right;
