@@ -10,7 +10,7 @@ ruby "2.6.6"
 
 gem "jekyll", "~> 3.8.5"
 
-gem "kramdown"
+# gem "kramdown"
 
 gem "rack-jekyll"
 

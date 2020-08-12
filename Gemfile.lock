@@ -65,7 +65,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.8.5)
-  kramdown
   puma
   rack-jekyll
   rake
