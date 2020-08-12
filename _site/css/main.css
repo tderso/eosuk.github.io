@@ -528,10 +528,16 @@ h1,h2,h3,h4,h5,h6 {
 .page h4 {
   margin-bottom: 1em;
 }
-.post-content p strong,
+.post-content p strong, 
+.post-content h3 strong,
 .post .post-content ul li {
     color: #880044;
     font-size: 1.5rem;
+  }
+
+  .post-content > p em {
+    font-size: 0.8em;
+    line-height: 0.5;
   }
 
 /* BLOG STYLES */
