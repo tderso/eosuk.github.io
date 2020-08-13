@@ -8,12 +8,12 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 ruby "2.6.6"
 
-gem 'bundler'
+#gem 'bundler'
 gem 'jekyll', '~>3.8.5'
-gem 'rack-contrib'
+#gem 'rack-contrib'
 gem 'kramdown'
 
-# gem 'rack-jekyll'
+gem 'rack-jekyll'
 
 gem 'puma'
 gem 'rake'
