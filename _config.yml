@@ -1,2 +1,2 @@
-# plugins: ['kramdown']
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+plugins: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
