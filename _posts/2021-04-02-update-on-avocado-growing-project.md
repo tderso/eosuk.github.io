@@ -8,7 +8,7 @@ gravatar:
 postFooter: Futher information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
 ---
 
-
+Update on Avocado growing project.
 
 <div class="bordered pull-left tiny">
 	<a href="{{ base }}/images/Avocado-Mar-2021.jpg">
