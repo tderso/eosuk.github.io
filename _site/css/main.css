@@ -199,7 +199,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 .nav-links a,
 .drop-trigger {
-  font-size: 0.8em;
+  font-size: 1.2em;  /* 0.8em; */
   font-weight: bold;
   text-decoration: none;
   text-transform: uppercase;
@@ -779,7 +779,7 @@ h1,h2,h3,h4,h5,h6 {
 .mobile-menu-check,
 .show-mobile-menu,
 .mob-menu-more-check,
-.show-mob-menu-more,
+.show-mob-menu-more,≈ß
 .mob-menu-blog-check,
 .show-mob-menu-blog,
 .mob-menu-br-check,
@@ -930,6 +930,8 @@ h1,h2,h3,h4,h5,h6 {
   .show-mobile-menu {
     display: block;
     float: right;
+    font-size: 1.2em;
+    font-weight: bold;
     padding: 1.5em;
     position: relative;
     margin-top: 1.5vh;
