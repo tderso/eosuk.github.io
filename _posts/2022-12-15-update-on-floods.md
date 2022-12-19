@@ -5,13 +5,13 @@ postHero: /images/EWCV-floods-July-2022.jpg
 author: The Honourary Treasurer
 authorTwitter: http://twitter.com/eafrasi
 gravatar:
-postFooter: Futher information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
+postFooter: All the photos on this page are courtesy of EWCV. Futher information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
 ---
 
 There was a major devastation of EWCV’s farm by another freak weather condition
 in July 2022. The unusual weather condition consisted of heavy rains, hailstone,
-flash floods and strong winds. The damage caused was far worse than that in July
-2017 (to put a link here). Some classrooms had also their roofs damaged. The
+flash floods and strong winds. The damage caused was far worse than that in [July
+2017](/2017/07/25/July-2017-Update.html). Some classrooms had also their roofs damaged. The
 pictures, including the short video of the floods, say it more than can be said
 in words.
 
@@ -49,10 +49,10 @@ date.
 	</div>
 	<div class="col-sm-6 col-md-6 col-lg-6">
 		  <img src="{{ "/images/dmg-papaya-tree-that-was-promising-2.jpg" | prepend: site.baseurl }}"
-          alt="Payapa tree that had become promising after a few years of quiescence" 
+          alt="Payapa trees that had become promising after a few years of quiescence" 
           class="img-responsive center-block" />
         <div class="caption text-center">
-			<p>Payapa tree that had become promising after a few years of quiescence</p>
+			<p>Payapa trees that had become promising after a few years of quiescence</p>
 	    </div>
 	</div>
 </div>
@@ -62,16 +62,19 @@ date.
 		  <img src="{{ "/images/dmg-lettuce-1.jpg" | prepend: site.baseurl }}"
           alt="Damaged lettuce" 
           class="img-responsive center-block" />
+        <div class="caption text-center">
+		    <p>Damaged lettuce</p>
+        </div>
 	</div>
 	<div class="col-sm-6 col-md-6 col-lg-6">
 		  <img src="{{ "/images/dmg-lettuce-2.jpg" | prepend: site.baseurl }}"
-          alt="Damaged lettuce" 
+          alt="Damaged cabbage" 
           class="img-responsive center-block" />
           <p>&nbsp;</p>
+        <div class="caption text-center">
+		    <p>Damaged cabbage</p>
+        </div>
 	</div>
-    <div class="caption text-center">
-		<p>Damaged lettuce</p>
-    </div>
 </div>
 
 <div class="row bordered tiny">
