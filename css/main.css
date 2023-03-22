@@ -539,6 +539,11 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 0.6em;
   }
 
+  .pl-5,
+  .px-5 {
+    padding-left: 3rem;
+  }
+
 /* BLOG STYLES */
 .blog-recent {
   text-align: right;
