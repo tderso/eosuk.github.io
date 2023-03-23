@@ -9,9 +9,14 @@ postFooter: All the photos on this page are courtesy of EWCV. Futher information
 ---
 
 <div>
-  <!-- h3>’Post war’ and Post Storm update received by EOS-UK Charity Fund on 4 March 2023</h3 -->
-  <h1>4 March 2023 Update</h1>
-  <p>&nbsp;</p>
+   <h1>4 March 2023 Update</h1>
+  <div>
+    <p>
+      The Trustees of EOS-UK Charity Fund held their AGM for the financial year ending 13 December 2022
+      on 7 March 2023 and were pleased to receive the following eagerly-awaited update from ECVW a few
+      days before that.
+    </p>
+  </div>
   <h2>On a positive note:</h2>
   <ol class="pl-5">
     <li><p>
@@ -33,7 +38,7 @@ postFooter: All the photos on this page are courtesy of EWCV. Futher information
       We have accepted 15 new children (8 boys & 7 girls) as part of the 160 children, i.e. to replace the same number of youth / young adults who have left the Village to start life on their own.
     </p></li>
     <li><p>
-      Ten of the new children are a direct victims of war, i.e. who have lost both or the breadwinner parent to the war. The five come from families who have been affected by the war, i.e. who lost their livelihood thus unable to provide for their children.
+      Ten of the new children are direct victims of war, i.e. who have lost both or the breadwinner parent to the war. The five come from families who have been affected by the war, i.e. who lost their livelihood thus unable to provide for their children.
     </p></li>
     <li><p>
       As communicated before, our desire is to bring the number of children to a total of 200. However, that has to wait until financing is somehow secured.
