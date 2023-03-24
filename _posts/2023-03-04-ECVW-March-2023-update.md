@@ -12,7 +12,7 @@ postFooter: All the photos on this page are courtesy of EWCV. Futher information
    <h1>4 March 2023 Update</h1>
   <div>
     <p>
-      The Trustees of EOS-UK Charity Fund held their AGM for the financial year ending 13 December 2022
+      The Trustees of EOS-UK Charity Fund held their AGM for the financial year ending 31 December 2022
       on 7 March 2023 and were pleased to receive the following eagerly-awaited update from ECVW a few
       days before that.
     </p>
