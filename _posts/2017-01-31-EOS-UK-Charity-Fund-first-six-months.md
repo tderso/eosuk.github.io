@@ -5,7 +5,7 @@ postHero: /images/IMG_1375-small.png
 author: The Honourary Treasurer
 authorTwitter: http://twitter.com/eafrasi
 gravatar: 
-postFooter: Futher information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
+postFooter: Further information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
 ---
 
 **January 2017:** EOS-UK Charity Fund has transferred £4890.00 to its beneficiaries at Elshadai Wukro Children's Village (EWCV) since it was founded six months ago in June 2016. The Charity was set up to try and mitigate the acute financial problem EWCV was facing. They are managing as best they can at the 'village' at present thanks to the income from their farm produce and the educational services they provide to the local community together with any help they receive from their friends and partners. 

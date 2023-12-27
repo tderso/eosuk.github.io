@@ -5,7 +5,7 @@ postHero: /images/EOS-UK-X-Mas.png
 author: The Honourary Treasurer
 authorTwitter: 
 gravatar:
-postFooter: All the photos on this page are courtesy of EWCV. Futher information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
+postFooter: Further information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
 ---
 
 <div>
@@ -27,6 +27,6 @@ postFooter: All the photos on this page are courtesy of EWCV. Futher information
 	</div>
   </div>
   <p>
-  The Trustees of EOS-UK Charity Fund would like to wish Happy Seasons Greetings to all the Charity’s donors and supporters.
+  The Trustees of EOS-UK Charity Fund would like to wish Happy Season's Greetings to all the Charity’s donors and supporters.
   </p>
 </div>

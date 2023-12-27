@@ -5,7 +5,7 @@ postHero: /images/Oct-2017-Photo-Biogester.jpg
 author: The Honourary Treasurer
 authorTwitter: http://twitter.com/eafrasi
 gravatar: 
-postFooter: Futher information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
+postFooter: Further information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
 ---
 
 **After the storms and the floods have gone:**

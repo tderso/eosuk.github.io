@@ -6,7 +6,7 @@ postHero: /images/IMG_3823-small.png
 author: The Honourary Treasurer
 authorTwitter: http://twitter.com/eafrasi
 gravatar: 
-postFooter: Futher information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
+postFooter: Further information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
 ---
 
 The Charity's honorary treasurer and honorary secretary have just returned from a private visit to Ethiopia and they naturally visited EWCV to see the achievements and challenges at the center for themselves. The centre is still recovering from the shock of the storms and floods in July 2017. The irony is that the rainfall after the freak weather was poor. What is more they have had some nights of hard frost which has made the recovery harder. Indeed the avocado saplings they planted in November with <a href="http://www.cultivaid.org">CultivAid's</a> drip irrigation system have been badly affected by the frost and Alem was saying that they might have to replace some of the plants. <a href="http://www.cultiveaid.org">CultivAid</a> from Israel is working in different parts of Ethiopia on hands on training in agricultural development emphasising “the need for agronomists to be in the field in order 

@@ -5,7 +5,7 @@ postHero: /images/EWCV-floods-July-2022.jpg
 author: The Honourary Treasurer
 authorTwitter: http://twitter.com/eafrasi
 gravatar:
-postFooter: All the photos on this page are courtesy of EWCV. Futher information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
+postFooter: All the photos on this page are courtesy of EWCV. Further information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
 ---
 
 There was a major devastation of EWCV’s farm by another freak weather condition

@@ -5,7 +5,7 @@ postHero: /images/Avocado-half-hero.png
 author: The Honourary Treasurer
 authorTwitter: http://twitter.com/eafrasi
 gravatar: 
-postFooter: Futher information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
+postFooter: Further information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
 ---
 
 EOS-UK Charity Fund receives sponsorship donations from its core supporters each month. The accumulated funds are transferred to Elshadai Wukro Children's Village (EWCV) at the end of each quarter. The Charity also receives once-yearly donations from some of its supporters. These donations are split into four equal parts and one-quarter is included with each transfer.
