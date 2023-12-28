@@ -16,7 +16,7 @@ postFooter: Further information could be obtained by calling +44(0)7867 727445 o
   </p>
 
   <p>
-  Selam Charity Switzerland (SCS) took ECVW under its wings in the past year. SCS already runs three centres in other parts of Ethiopia – at Addis Ababa, Dire Dawa and Hawassa - and is strong on vocational education. The children at ECVW, therefore, stands for a more certain future. With its other operations, SCS will obviously find it easier to get funds into Ethiopia even though ECVW still has no bank account of its own while it waits to set itself up as an independent charity.
+  Selam Charity Switzerland (SCS) took ECVW under its wings in the past year. SCS already runs three centres in other parts of Ethiopia – at Addis Ababa, Dire Dawa and Hawassa - and is strong on vocational education. The children at ECVW, therefore, stand for a more certain future. With its other operations, SCS will obviously find it easier to get funds into Ethiopia even though ECVW still has no bank account of its own while it waits to set itself up as an independent charity.
   </p>
 
   <div class="row bordered tiny">
