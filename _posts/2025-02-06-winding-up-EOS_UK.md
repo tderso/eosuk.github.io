@@ -7,6 +7,9 @@ authorTwitter:
 gravatar:
 postFooter: All the photos on this page are courtesy of EWCV. Further information could be obtained by calling +44(0)7867 727445 or at <a href="mailto:eosukcharityfund@gmail.com">eosukcharityfund@gmail.com</a>
 ---
+February 2025 Update: EOS-UK Charity Fund to close down.
+
+The Board of Trustees has been considering the future of Ethiopian Orphans Support UK Charity Fund (EOS-UKCF) at least for the past one year. The Charity has been supporting Elshadai Children's Village, Wukro (ECVW) for over 30 years, first as Friends of Ethiopian Children in Need (FECIN) since the early part of 1990s, and as EOS-UKCF since 2016. The Trustees are acutely aware that they have not been able to recruit new blood, which is important for the longterm viability of any charity, while they and their loyal supporters are not getting any younger. In fact, they have lost some of their supporters in the past two years.
 
 <div class="bordered pull-left tiny text-center">
 	<img src="{{ base }}/images/Hildana-decor.jpg" alt="Wedding Decoration by Hildana Medmim" class="img-responsive center-block" />
@@ -14,8 +17,6 @@ postFooter: All the photos on this page are courtesy of EWCV. Further informatio
 		<p>Credit: Decoration & Photo by Hildana Medmim at ECVW</p>
 	</div>
 </div>  
- 
-The Board of Trustees has been considering the future of Ethiopian Orphans Support UK Charity Fund (EOS-UKCF) at least for the past one year. The Charity has been supporting Elshadai Children's Village, Wukro (ECVW) for over 30 years, first as Friends of Ethiopian Children in Need (FECIN) since the early part of 1990s, and as EOS-UKCF since 2016. The Trustees are acutely aware that they have not been able to recruit new blood, which is important for the longterm viability of any charity, while they and their loyal supporters are not getting any younger. In fact, they have lost some of their supporters in the past two years.
 
 On the other hand, the Trustees are pleased to say that since 2023, ECVW has come under the wings of Selam Charity Switzerland (SCS) which already runs three other centres in Ethiopia. SCS is already working with ECVW extensively and  hopefully things  get even easier for everybody once ECVW’s application to become a stand-alone charity, with its own bank account, becomes a reality.
  
